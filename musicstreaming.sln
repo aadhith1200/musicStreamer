@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "musicstreaming", "musicstreaming\musicstreaming.vcxproj", "{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Debug|x64.ActiveCfg = Debug|x64
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Debug|x64.Build.0 = Debug|x64
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Debug|x86.ActiveCfg = Debug|Win32
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Debug|x86.Build.0 = Debug|Win32
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Release|x64.ActiveCfg = Release|x64
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Release|x64.Build.0 = Release|x64
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Release|x86.ActiveCfg = Release|Win32
+		{19BD49C3-DA35-4953-AF2C-E49AAA0966D4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {418B83B2-5B0B-43C7-9AC0-623381FCF6DE}
+	EndGlobalSection
+EndGlobal
